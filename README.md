@@ -8,6 +8,6 @@ Meu nome é Sandy Sthefany
 
   ### Você pode entrar em contato comigo! 📱
 
-  0000115877184sp@al.educacao.sp.gov.br
+  0000115887184sp@al.educacao.sp.gov.br
 
   @SandySthefany120
