@@ -2,8 +2,8 @@
 
 Meu nome é Sandy Sthefany
 
-- Estou Estudando Pelo Alura
-- Estou Aprendendo a linguagem JavaScript
+- Estou Estudando Pelo [Alura](https://www.alura.com.br/)
+- Estou Aprendendo a linguagem [JavaScript](https://p5js.org/)
 - Utilizo esse espaço para minha organização e compartilhanmento dos meu projetos desenvolvidos
 
   ### Você pode entrar em contato comigo! 📱
